@@ -1,6 +1,6 @@
 # Statistical Analysis on King Street Pilot Project
 
-One of the goal of the King Street Pilot project is to improve public street car travel speed and efficiency between Jarvis Street and Bathurst Street. However, vehicles are not allowed to travel through the street. As a result, the average travel time of the vehicles surrounding that area will increase to compromise the smooth travel of the King Street Public Street Car. I am performing a statistical analysis on the vehicle travel time of this project between Nov. 2017 to Oct. 2018, and comparing the pilot data with the baseline data which is the vehicle travel time before the Pilot project (between Oct/Nov. 2017). 
+One of the goal of the King Street Pilot project is to improve public street car travel speed and efficiency between Jarvis Street and Bathurst Street. However, vehicles are not allowed to travel through the street most of the time. As a result, the average travel time of the vehicles surrounding that area will increase. I am performing a statistical analysis on the vehicle travel time of this project between Nov. 2017 to Oct. 2018, and comparing the pilot data with the baseline data which is the vehicle travel time before the Pilot project (between Oct/Nov. 2017). 
 
 The dataset can be found in the City Of Toronto Open Data website as shown below.
 
