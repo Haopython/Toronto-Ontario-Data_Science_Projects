@@ -10,7 +10,7 @@ Does the pilot data satisfies under the baseline?
 
 Let us find out. Please view my project and click the above link Statistical Analysis on King Street Pilot Project.ipynb
 
-For more information of the King Street Pilot project, please visit the websites here:
+For more information on the King Street Pilot project, please visit the websites here:
 
 https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/king-street-pilot/king-street-transit-pilot-overview/
 
