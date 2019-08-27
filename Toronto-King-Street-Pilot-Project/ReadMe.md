@@ -8,7 +8,7 @@ https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-ca
 
 Does the pilot data satisfies under the baseline?
 
-Let us find out. Please check out my project and click the above link Statistical Analysis on King Street Pilot Project.ipynb
+Let us find out. Please view my project and click the above link Statistical Analysis on King Street Pilot Project.ipynb
 
 For more information of the King Street Pilot project, please visit the websites here:
 
