@@ -6,7 +6,7 @@ The dataset can be found in the City Of Toronto Open Data website as shown below
 
 https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/transportation/#a85f193a-4910-f155-6cb9-49f9dedd1392
 
-Does the pilot data satisfies under the baseline?
+Does the pilot data increased and if yes increased enough satisfies under the baseline? 
 
 Let us find out. Please view my project and click the above link, "Statistical Analysis on King Street Pilot Project.ipynb" for the detailed analysis.
 
